@@ -4,3 +4,5 @@ images/
 masks/
 wsis/
 annotations/
+
+.venv/
